@@ -1,4 +1,4 @@
-# Ssy-Hi 
+# Ssy-Hi - A chat Application.
 ## This is a chat app built using Thunkable and firebase.
 
 <p align="center">
